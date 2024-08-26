@@ -1,5 +1,7 @@
 # notebooks
 
+This repository contains a collection of example Python scripts in Jupyter Notebook for climate data analysis and visualization. 
+
 [![Image 1_1](gallery/climate_stripes_2.png)](notebooks/climate_stripes.ipynb)
 
 Some example notebooks used for climate data analysis
