@@ -4,7 +4,8 @@ This repository contains a collection of example Python scripts in Jupyter Noteb
 
 [![Image 1_1](gallery/climate_stripes_2.png)](notebooks/climate_stripes.ipynb)
 
-Some example notebooks used for climate data analysis
+
+## Example gallery: 
 
 | [Climate Stripes](notebooks/climate_stripes.ipynb)      | [Portrait Plot](notebooks/portrait_plot.ipynb)      | [Grouped Box Plot](gallery/grouped_box_plot.png)      |
 |--------------|--------------|--------------|
